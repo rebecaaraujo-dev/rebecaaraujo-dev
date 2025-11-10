@@ -43,7 +43,7 @@ Sistema mobile-friendly para registro de presença de alunos em tempo real.
 *Stack:* JavaScript, Supabase, HTML, CSS.
 
 ---
--->
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -52,6 +52,7 @@ Sistema mobile-friendly para registro de presença de alunos em tempo real.
 </p>
 
 ---
+-->
 ### 🌍 Onde me encontrar
 
 <p align="left">
